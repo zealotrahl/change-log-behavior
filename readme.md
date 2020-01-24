@@ -1,14 +1,10 @@
-# Changelog Behavior simplified(v.1.0.0) 
+# Changelog Behavior (v.0.0.1) 
 
 Simple behavior for your yii2-models 
 
 ## Installation
 
-1- Install package via composer:
-```
-composer require cranky4/change-log-behavior "*"
-```
-2- Run migrations:
+1- Run migrations:
 ```
 yii migrate --migrationPath=@vendor/cranky4/change-log-behavior/src/migrations
 ```
